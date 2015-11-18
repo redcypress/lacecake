@@ -1,0 +1,29 @@
+form#javo_ts_form{}
+form#javo_ts_form .javo_ts_tab.javo-opts-group-tab h3{
+	font-size:1.0em;
+}
+form#javo_ts_form .javo_ts_tab.javo-opts-group-tab dl{ display:block; }
+form#javo_ts_form .javo_ts_tab.javo-opts-group-tab dt{
+	display:inline-block;
+	width:20%;
+	text-align:right;
+	text-transform:uppercase;
+}
+form#javo_ts_form .javo_ts_tab.javo-opts-group-tab dt:after{
+	content: ">";
+	display:inline-block;
+	font-size:0.8em;
+	font-weight:bold;
+	margin-left:10px;
+	font-family:Impact, Charcoal, sans-serif;
+	font-weight:bold;
+
+}
+form#javo_ts_form .javo_ts_tab.javo-opts-group-tab dd{ display:inline-block; }
+form#javo_ts_form .javo_ts_tab.javo-opts-group-tab[tar="priceplan"] input[name^='javo_ts']{
+	box-shadow:inset 2px 2px 2px rgba(230, 230, 230, .5);
+	text-align:center;
+}
+form#javo_ts_form .javo_ts_tab.javo-opts-group-tab .postbox h3 label [type="checkbox"]:checked:before{
+	content:"\f158";
+}

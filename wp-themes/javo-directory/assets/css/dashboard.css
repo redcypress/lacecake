@@ -1,0 +1,4 @@
+body.javo-dashboard{}
+body.javo-dashboard .javo-dashboard-upload-list{ overflow:hidden; }
+body.javo-dashboard .javo-dashboard-upload-list img{ min-width:100%; min-height:150px; }
+body.javo-dashboard div.chosen-container-single a.chosen-single span{ color:#000; }

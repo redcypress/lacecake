@@ -1,0 +1,43 @@
+<wpml-config>
+	<admin-texts>
+		<key name="javo_themes_settings">
+
+			<key name="field_caption"/>
+			<key name="javo_custom_label">
+				<key name="about" />
+				<key name="location" />
+				<key name="events" />
+				<key name="ratings" />
+				<key name="reviews" />
+			</key>
+
+
+
+			<key name="custom_field" >
+				<key name="name">
+					<key name="0">
+						<key name="label" />
+					</key>
+					<key name="1">
+						<key name="label" />
+					</key>
+				</key>
+			</key>
+
+			<key name="rating_field">
+					<key name="0"></key>
+					<key name="1"></key>
+					<key name="2"></key>
+					<key name="3"></key>
+					<key name="4"></key>
+					<key name="5"></key>
+				</key>
+
+
+
+			<key name="rating_alert_header" />
+			<key name="rating_alert_content" />
+
+		</key>
+	</admin-texts>
+</wpml-config>

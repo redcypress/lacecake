@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd /var/www/domains/laceandcake.com.au/test/htdocs/wp-content/themes
+sudo git pull --ff-only
